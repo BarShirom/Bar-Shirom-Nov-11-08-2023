@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0% 10px;
+  color: black;
+  background-color: yellow;
+  justify-content: space-between;
+}
+
+.link {
+  font-size: large;
+  font-weight: bold;
+  color: black;
+  padding: 27px;
+
+  text-decoration: none;
+}
