@@ -1,10 +1,17 @@
 .navbar {
   display: flex;
-  flex-wrap: wrap;
-  padding: 0% 10px;
-  color: black;
+
   background-color: yellow;
   justify-content: space-between;
+}
+
+.header {
+  color: black;
+  padding-left: 25px;
+}
+
+.linkSection {
+  padding: 27px;
 }
 
 .link {
